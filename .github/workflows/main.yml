@@ -1,0 +1,6 @@
+git init
+git add index.html styles.css script.js assets prototype-mobile.png
+git commit -m "Add Medicare selector prototype"
+git branch -M main
+git remote add origin https://github.com/YOUR-USERNAME/medicare-selector.git
+git push -u origin main
